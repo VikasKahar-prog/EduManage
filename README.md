@@ -1,0 +1,2 @@
+# EduManage
+School Management System
